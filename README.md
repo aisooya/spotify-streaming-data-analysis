@@ -39,6 +39,6 @@ The project includes:
 
 ## Dashboard
 An interactive Excel dashboard was created to present the key findings through charts, tables, and a year slicer.
-
+![Spotify Dashboard](spotify_dashboard.png)
 ## Conclusion
 This project helped me practice data cleaning, data transformation, data analysis, and dashboard creation using Microsoft Excel.
